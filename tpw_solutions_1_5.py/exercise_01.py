@@ -1,0 +1,5 @@
+print ("Jose Perez")
+print ("St Roberts CHS")
+print ("8101 Leslie St, Thornhill, ON")
+print ("Thornhill Ontario L3T 7P4")
+print ("Canada")
